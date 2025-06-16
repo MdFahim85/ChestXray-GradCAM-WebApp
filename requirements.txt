@@ -1,6 +1,6 @@
 Flask
-tensorflow
-keras
+tensorflow>=2.15
+keras>=3.0.0
 numpy
 opencv-python
 matplotlib
