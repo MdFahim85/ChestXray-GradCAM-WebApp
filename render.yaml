@@ -1,0 +1,9 @@
+services:
+  
+-type: web
+  name: chestxray-webapp
+  env: python
+  buildCommand: ""
+  startCommand: python app.py
+  runtime: python
+  plan: free
